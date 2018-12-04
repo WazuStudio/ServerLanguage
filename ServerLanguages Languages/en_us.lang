@@ -1,1 +1,2 @@
-g
+command.language.change=Your language has been changed to
+command.language.invalid=You must provide a valid language
